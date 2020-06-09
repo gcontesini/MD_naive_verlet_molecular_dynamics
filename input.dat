@@ -1,0 +1,5 @@
+8   8         ! Nx e Ny
+1000  500     ! NPASSOS e NPASSEQ
+0.8           ! DEN  (densidade)
+1.4           ! TEMP (temperatura em Kelvins)
+0.005         !   DT (passo de integracao

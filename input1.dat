@@ -1,0 +1,3 @@
+6   6   6     ! Nx, Ny e Nz
+1500  500     ! NPASSOS e NPASSEQ
+0.004         !   DT (passo de integracao
